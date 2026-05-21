@@ -1,0 +1,4 @@
+Las APIs permiten que las comunidades compartan información de forma rápida y organizada.
+Con rutas GET pueden consultar alertas o reportes públicos. Con POST pueden enviar nuevos reportes desde el celular.
+Al usar tecnologías abiertas como Express, las comunidades no dependen de empresas y controlan sus propios datos.
+Esto facilita crear redes de apoyo locales, mapear problemas del barrio y coordinar ayuda entre vecinos.
